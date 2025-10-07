@@ -7,3 +7,15 @@ Task 1 the CAR PRICE PREDICTION WITH MACHINE LEARNING
 
 here's the link of the video of task in action on linkedin
 https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-python-activity-7379203727376728064-NN_p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx4yFkBPbeZesSUQN-5h5XubSzSo_uiz2o
+
+
+Task 2 EMAIL SPAM DETECTION WITH MACHINE LEARNING
+
+here's the link of the video of task in action on linkedin
+https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-nlp-activity-7379913631427256320-ZIsQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx4yFkBPbeZesSUQN-5h5XubSzSo_uiz2o
+
+
+Task 3 SALES PREDICTION USING PYTHON
+
+here's the link of the video of task in action on linkedin
+https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-python-activity-7381222314828468224-Tp3x?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx4yFkBPbeZesSUQN-5h5XubSzSo_uiz2o
