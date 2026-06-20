@@ -1,107 +1,222 @@
-# 🚀 OIBSIP Internship Projects — Oasis Infobyte
+🚀 OIBSIP Internship Projects — Oasis Infobyte
 
 <p align="center">
-  <b>Machine Learning • Data Science • NLP</b>
+  <img src="https://img.shields.io/badge/Domain-Data%20Science%20%26%20Machine%20Learning-blue?style=for-the-badge" alt="Domain" />
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Program-OIBSIP-orange?style=for-the-badge" alt="OIBSIP" />
 </p>
-
 <p align="center">
+  <b>Hands-on Machine Learning, Data Analysis, and NLP Projects</b>
+</p>
+<p align="center">
+  <a href="#-overview">Overview</a> •
   <a href="#-projects">Projects</a> •
-  <a href="#-repository-structure">Repository Structure</a> •
-  <a href="#-technologies-used">Technologies</a> •
-  <a href="#-how-to-run-the-projects">How to Run</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-how-to-run">How to Run</a> •
   <a href="#-author">Author</a>
 </p>
 
----
+⸻
 
-## 📌 Overview
+📌 Overview
 
-This repository contains the projects completed during my **Data Science and Machine Learning internship** at **Oasis Infobyte** under the **OIBSIP (Oasis Infobyte Internship Program)**.
+This repository contains the projects completed during my internship at Oasis Infobyte under the OIBSIP (Oasis Infobyte Internship Program).
 
-The projects focus on applying Machine Learning, Data Analysis, Natural Language Processing, and data visualization techniques to solve practical business problems.
+The internship focused on applying Data Science, Machine Learning, and Natural Language Processing concepts to real-world datasets. Each project includes data preprocessing, exploratory data analysis, feature engineering, model development, evaluation, and visualization.
 
----
+⸻
 
-## 🎯 Projects
+🎯 Projects
 
-### 1️⃣ Car Price Prediction with Machine Learning
+Task	Project	Machine Learning Type	Core Concepts
+Task 1	Car Price Prediction	Regression	Feature Engineering, Data Preprocessing, Model Evaluation
+Task 2	Email Spam Detection	Classification	NLP, Text Preprocessing, TF-IDF, Vectorization
+Task 3	Sales Prediction	Regression	EDA, Data Visualization, Predictive Modeling
 
-#### 📖 Objective
-Build a regression model that predicts the price of a car using important features such as brand, fuel type, transmission, mileage, and other specifications.
+⸻
 
-#### 🛠️ What I Worked On
-- Cleaned and prepared the dataset
-- Performed feature engineering
-- Explored relationships between car features and prices
-- Trained regression-based Machine Learning models
-- Evaluated model performance using regression metrics
+🚗 Task 1 — Car Price Prediction with Machine Learning
 
-#### 🧰 Tools Used
-`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Seaborn`
+📖 Problem Statement
 
-#### 🎥 Demo
-[View Car Price Prediction Demo](https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-python-activity-7379203727376728064-NN_p)
+The objective of this project is to predict car prices based on important attributes such as brand, fuel type, transmission type, mileage, engine details, and other specifications.
 
----
+🔍 Project Workflow
 
-### 2️⃣ Email Spam Detection with Machine Learning
+* Loaded and explored the dataset
+* Cleaned missing and inconsistent data
+* Performed feature engineering
+* Converted categorical data into numerical form
+* Built regression-based Machine Learning models
+* Evaluated predictions using regression metrics
+* Visualized patterns and relationships in the dataset
 
-#### 📖 Objective
-Develop a classification model that identifies whether an email is **Spam** or **Not Spam**.
+🧰 Technologies Used
 
-#### 🛠️ What I Worked On
-- Cleaned email text data
-- Removed unnecessary characters and stop words
-- Converted text data into numerical features
-- Used NLP techniques such as TF-IDF and Count Vectorization
-- Built and evaluated classification models
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
-#### 🧰 Tools Used
-`Python` • `Pandas` • `Scikit-learn` • `NLP` • `TF-IDF Vectorizer` • `Count Vectorizer`
+🎥 Project Demo
 
-#### 🎥 Demo
-[View Email Spam Detection Demo](https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-nlp-activity-7379913631427256320-ZIsQ)
+View Car Price Prediction Demo on LinkedIn
 
----
+⸻
 
-### 3️⃣ Sales Prediction using Python
+📧 Task 2 — Email Spam Detection with Machine Learning
 
-#### 📖 Objective
-Create a Machine Learning model that predicts sales based on advertising expenditure and related factors.
+📖 Problem Statement
 
-#### 🛠️ What I Worked On
-- Performed Exploratory Data Analysis (EDA)
-- Analyzed the effect of advertising channels on sales
-- Created visualizations for better data understanding
-- Built regression models for sales prediction
-- Evaluated model accuracy and performance
+The objective of this project is to classify email messages as either Spam or Not Spam using Natural Language Processing and Machine Learning techniques.
 
-#### 🧰 Tools Used
-`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Seaborn`
+🔍 Project Workflow
 
-#### 🎥 Demo
-[View Sales Prediction Demo](https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-python-activity-7381222314828468224-Tp3x)
+* Loaded and analyzed email message data
+* Cleaned text by removing punctuation, special characters, and unnecessary words
+* Applied text preprocessing techniques
+* Converted text into numerical features using vectorization
+* Used TF-IDF Vectorizer and Count Vectorizer
+* Built classification models
+* Evaluated performance using classification metrics
 
----
+🧰 Technologies Used
 
-## 📂 Repository Structure
+Python • Pandas • Scikit-learn • NLP • TF-IDF Vectorizer • Count Vectorizer
 
-```text
+🎥 Project Demo
+
+View Email Spam Detection Demo on LinkedIn
+
+⸻
+
+📈 Task 3 — Sales Prediction using Python
+
+📖 Problem Statement
+
+The objective of this project is to predict future sales based on advertising expenditure and other factors that influence product sales.
+
+🔍 Project Workflow
+
+* Performed Exploratory Data Analysis (EDA)
+* Identified relationships between advertising channels and sales
+* Created visualizations to understand data trends
+* Prepared data for Machine Learning models
+* Built regression models for sales prediction
+* Evaluated model performance and prediction accuracy
+
+🧰 Technologies Used
+
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+
+🎥 Project Demo
+
+View Sales Prediction Demo on LinkedIn
+
+⸻
+
+🛠 Tech Stack
+
+Category	Tools and Technologies
+Programming Language	Python
+Data Manipulation	Pandas, NumPy
+Machine Learning	Scikit-learn
+Data Visualization	Matplotlib, Seaborn
+Natural Language Processing	TF-IDF Vectorizer, Count Vectorizer
+Development Environment	Jupyter Notebook, Google Colab, VS Code
+Version Control	Git and GitHub
+
+⸻
+
+🧠 Skills Demonstrated
+
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Regression Algorithms
+* Classification Algorithms
+* Natural Language Processing (NLP)
+* Text Vectorization
+* Model Training and Evaluation
+* Data Visualization
+* Python Programming
+* Git and GitHub
+
+⸻
+
+🔄 Machine Learning Workflow
+
+Data Collection → Data Cleaning → Exploratory Data Analysis → Feature Engineering → Model Training → Model Evaluation → Predictions and Insights
+
+⸻
+
+📂 Repository Structure
+
 OIBSIP/
 │
 ├── Car Price Prediction/
 │   ├── dataset/
-│   ├── notebook.ipynb
+│   ├── car_price_prediction.ipynb
 │   └── README.md
 │
 ├── Email Spam Detection/
 │   ├── dataset/
-│   ├── notebook.ipynb
+│   ├── email_spam_detection.ipynb
 │   └── README.md
 │
 ├── Sales Prediction/
 │   ├── dataset/
-│   ├── notebook.ipynb
+│   ├── sales_prediction.ipynb
 │   └── README.md
 │
 └── README.md
+
+⸻
+
+⚙️ How to Run
+
+1. Clone the repository:
+
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+
+2. Navigate to the project folder:
+
+cd YOUR-REPOSITORY-NAME
+
+3. Install dependencies:
+
+pip install pandas numpy scikit-learn matplotlib seaborn
+
+4. Open any .ipynb notebook file using Jupyter Notebook, VS Code, or Google Colab.
+
+⸻
+
+🏢 Internship Details
+
+Detail	Information
+Organization	Oasis Infobyte
+Program	OIBSIP — Oasis Infobyte Internship Program
+Domain	Data Science / Machine Learning
+Projects Completed	3
+
+⸻
+
+📚 Key Learnings
+
+* Worked with real-world datasets
+* Cleaned and prepared data for analysis
+* Built regression and classification models
+* Applied NLP techniques to text data
+* Evaluated Machine Learning model performance
+* Improved Git and GitHub project organization skills
+
+⸻
+
+👤 Author
+
+Charanpreet Singh
+
+LinkedIn Profile
+
+⸻
+
+<p align="center">
+  ⭐ If you found this repository useful, consider giving it a star!
+</p>
