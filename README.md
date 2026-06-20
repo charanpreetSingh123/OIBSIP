@@ -1,101 +1,120 @@
-🚀 OIBSIP Internship Projects – Oasis Infobyte
+# 🚀 OIBSIP Internship Projects — Oasis Infobyte
 
-📌 Overview
+This repository contains the Machine Learning and Data Science projects completed during my internship at **Oasis Infobyte** under the **OIBSIP (Oasis Infobyte Internship Program)**.
 
-This repository contains the projects completed during my internship at Oasis Infobyte under the OIBSIP (Oasis Infobyte Internship Program).
+Throughout this internship, I worked on real-world datasets and applied core Data Science concepts such as data preprocessing, exploratory data analysis, machine learning model development, and performance evaluation.
 
-The internship focused on applying Machine Learning and Data Science concepts to solve real-world problems. Each project demonstrates practical implementation using Python, data preprocessing, model building, and evaluation.
+---
 
-⸻
+## 📌 Projects
 
-🎯 Projects
+### 🔹 Task 1: Car Price Prediction with Machine Learning
 
-🔹 Task 1: Car Price Prediction with Machine Learning
+#### 📖 Description
+Developed a Machine Learning model to predict car prices based on various features such as car brand, fuel type, transmission type, mileage, and other specifications.
 
-📌 Description
-Developed a machine learning model to predict car prices based on various features such as brand, fuel type, and other specifications.
+#### ⚙️ Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
-⚙️ Tech Stack
+#### 📊 Key Highlights
+- Performed data cleaning and preprocessing
+- Applied feature engineering techniques
+- Built and trained regression models
+- Evaluated model performance using suitable metrics
+- Visualized important insights from the dataset
 
-* Python
-* Pandas, NumPy
-* Scikit-learn
-* Matplotlib / Seaborn
+#### 🎥 Project Demo
+[View Demo on LinkedIn](https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-python-activity-7379203727376728064-NN_p)
 
-📊 Key Highlights
+---
 
-* Data preprocessing and feature engineering
-* Model training and evaluation
-* Regression techniques applied
+### 🔹 Task 2: Email Spam Detection with Machine Learning
 
-🎥 Project Demo
-👉 https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-python-activity-7379203727376728064-NN_p
+#### 📖 Description
+Built a classification model that predicts whether an email message is **spam** or **not spam** using Natural Language Processing techniques.
 
-⸻
+#### ⚙️ Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- NLP
+- TF-IDF Vectorizer / Count Vectorizer
 
-🔹 Task 2: Email Spam Detection with Machine Learning
+#### 📊 Key Highlights
+- Cleaned and preprocessed text data
+- Converted text into numerical features using vectorization
+- Implemented machine learning classification algorithms
+- Evaluated the model using classification metrics
+- Improved understanding of NLP-based workflows
 
-📌 Description
-Built a classification model to detect whether an email is spam or not using Natural Language Processing (NLP) techniques.
+#### 🎥 Project Demo
+[View Demo on LinkedIn](https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-nlp-activity-7379913631427256320-ZIsQ)
 
-⚙️ Tech Stack
+---
 
-* Python
-* Scikit-learn
-* NLP (TF-IDF / Count Vectorizer)
+### 🔹 Task 3: Sales Prediction using Python
 
-📊 Key Highlights
+#### 📖 Description
+Created a predictive model to estimate future sales based on advertising expenditure and other influencing factors.
 
-* Text preprocessing and cleaning
-* Feature extraction using NLP
-* Classification algorithms implementation
+#### ⚙️ Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
-🎥 Project Demo
-👉 https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-nlp-activity-7379913631427256320-ZIsQ
+#### 📊 Key Highlights
+- Performed Exploratory Data Analysis (EDA)
+- Analyzed relationships between advertising channels and sales
+- Built regression models for sales prediction
+- Evaluated model performance
+- Created visualizations to communicate insights clearly
 
-⸻
+#### 🎥 Project Demo
+[View Demo on LinkedIn](https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-python-activity-7381222314828468224-Tp3x)
 
-🔹 Task 3: Sales Prediction using Python
+---
 
-📌 Description
-Created a predictive model to estimate future sales based on advertising spend and other influencing factors.
+## 🧠 Skills Gained
 
-⚙️ Tech Stack
+- Machine Learning Algorithms
+- Data Cleaning and Preprocessing
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Regression and Classification Models
+- Natural Language Processing (NLP)
+- Model Evaluation and Optimization
+- Data Visualization
 
-* Python
-* Pandas, NumPy
-* Scikit-learn
-* Data Visualization
+---
 
-📊 Key Highlights
+## 🏢 Internship Details
 
-* Exploratory Data Analysis (EDA)
-* Regression modeling
-* Performance evaluation
+| Detail | Information |
+|---|---|
+| Organization | Oasis Infobyte |
+| Program | OIBSIP — Oasis Infobyte Internship Program |
+| Domain | Data Science / Machine Learning |
 
-🎥 Project Demo
-👉 https://www.linkedin.com/posts/charanpreet-singh-7358032b9_machinelearning-datascience-python-activity-7381222314828468224-Tp3x
+---
 
-⸻
+## 📌 Conclusion
 
-🧠 Skills Gained
+This internship strengthened my understanding of end-to-end Machine Learning workflows, including data preprocessing, feature engineering, model development, evaluation, and visualization.
 
-* Machine Learning Algorithms
-* Data Preprocessing & Feature Engineering
-* Exploratory Data Analysis (EDA)
-* Natural Language Processing (NLP)
-* Model Evaluation & Optimization
+It also improved my practical Python programming, problem-solving, and data analysis skills.
 
-⸻
+---
 
-🏢 Internship Details
+## 👤 Author
 
-* Organization: Oasis Infobyte
-* Program: OIBSIP (Oasis Infobyte Internship Program)
-* Domain: Data Science / Machine Learning
+**Charanpreet Singh**
 
-⸻
-
-📌 Conclusion
-
-This internship helped me strengthen my understanding of real-world machine learning workflows, from data preprocessing to model deployment concepts. It also improved my problem-solving skills and practical coding experience.
+Feel free to explore the projects, provide feedback, or connect with me on [LinkedIn](https://www.linkedin.com/in/charanpreet-singh-7358032b9/).
