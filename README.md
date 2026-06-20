@@ -1,4 +1,4 @@
-🚀 OIBSIP Internship Projects — Oasis Infobyte
+# 🚀 OIBSIP Internship Projects — Oasis Infobyte
 
 <p align="center">
   <img src="https://img.shields.io/badge/Domain-Data%20Science%20%26%20Machine%20Learning-blue?style=for-the-badge" alt="Domain" />
@@ -16,26 +16,26 @@
   <a href="#-author">Author</a>
 </p>
 
-⸻
+---
 
-📌 Overview
+## 📌 Overview
 
 This repository contains the projects completed during my internship at Oasis Infobyte under the OIBSIP (Oasis Infobyte Internship Program).
 
 The internship focused on applying Data Science, Machine Learning, and Natural Language Processing concepts to real-world datasets. Each project includes data preprocessing, exploratory data analysis, feature engineering, model development, evaluation, and visualization.
 
-⸻
+---
 
-🎯 Projects
+## 🎯 Projects
 
 Task	Project	Machine Learning Type	Core Concepts
 Task 1	Car Price Prediction	Regression	Feature Engineering, Data Preprocessing, Model Evaluation
 Task 2	Email Spam Detection	Classification	NLP, Text Preprocessing, TF-IDF, Vectorization
 Task 3	Sales Prediction	Regression	EDA, Data Visualization, Predictive Modeling
 
-⸻
+---
 
-🚗 Task 1 — Car Price Prediction with Machine Learning
+##🚗 Task 1 — Car Price Prediction with Machine Learning
 
 📖 Problem Statement
 
@@ -51,17 +51,17 @@ The objective of this project is to predict car prices based on important attrib
 * Evaluated predictions using regression metrics
 * Visualized patterns and relationships in the dataset
 
-🧰 Technologies Used
+## 🧰 Technologies Used
 
 Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
-🎥 Project Demo
+## 🎥 Project Demo
 
 View Car Price Prediction Demo on LinkedIn
 
-⸻
+---
 
-📧 Task 2 — Email Spam Detection with Machine Learning
+## 📧 Task 2 — Email Spam Detection with Machine Learning
 
 📖 Problem Statement
 
@@ -77,23 +77,23 @@ The objective of this project is to classify email messages as either Spam or No
 * Built classification models
 * Evaluated performance using classification metrics
 
-🧰 Technologies Used
+## 🧰 Technologies Used
 
 Python • Pandas • Scikit-learn • NLP • TF-IDF Vectorizer • Count Vectorizer
 
-🎥 Project Demo
+## 🎥 Project Demo
 
 View Email Spam Detection Demo on LinkedIn
 
-⸻
+---
 
-📈 Task 3 — Sales Prediction using Python
+## 📈 Task 3 — Sales Prediction using Python
 
 📖 Problem Statement
 
 The objective of this project is to predict future sales based on advertising expenditure and other factors that influence product sales.
 
-🔍 Project Workflow
+## 🔍 Project Workflow
 
 * Performed Exploratory Data Analysis (EDA)
 * Identified relationships between advertising channels and sales
@@ -102,17 +102,17 @@ The objective of this project is to predict future sales based on advertising ex
 * Built regression models for sales prediction
 * Evaluated model performance and prediction accuracy
 
-🧰 Technologies Used
+## 🧰 Technologies Used
 
 Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
-🎥 Project Demo
+## 🎥 Project Demo
 
 View Sales Prediction Demo on LinkedIn
 
-⸻
+---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Category	Tools and Technologies
 Programming Language	Python
@@ -123,9 +123,9 @@ Natural Language Processing	TF-IDF Vectorizer, Count Vectorizer
 Development Environment	Jupyter Notebook, Google Colab, VS Code
 Version Control	Git and GitHub
 
-⸻
+---
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 * Data Cleaning and Preprocessing
 * Exploratory Data Analysis (EDA)
@@ -139,15 +139,15 @@ Version Control	Git and GitHub
 * Python Programming
 * Git and GitHub
 
-⸻
+---
 
-🔄 Machine Learning Workflow
+## 🔄 Machine Learning Workflow
 
 Data Collection → Data Cleaning → Exploratory Data Analysis → Feature Engineering → Model Training → Model Evaluation → Predictions and Insights
 
-⸻
+---
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 OIBSIP/
 │
@@ -168,9 +168,9 @@ OIBSIP/
 │
 └── README.md
 
-⸻
+---
 
-⚙️ How to Run
+## ⚙️ How to Run
 
 1. Clone the repository:
 
@@ -186,9 +186,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 4. Open any .ipynb notebook file using Jupyter Notebook, VS Code, or Google Colab.
 
-⸻
+---
 
-🏢 Internship Details
+## 🏢 Internship Details
 
 Detail	Information
 Organization	Oasis Infobyte
@@ -196,9 +196,9 @@ Program	OIBSIP — Oasis Infobyte Internship Program
 Domain	Data Science / Machine Learning
 Projects Completed	3
 
-⸻
+---
 
-📚 Key Learnings
+## 📚 Key Learnings
 
 * Worked with real-world datasets
 * Cleaned and prepared data for analysis
@@ -207,16 +207,13 @@ Projects Completed	3
 * Evaluated Machine Learning model performance
 * Improved Git and GitHub project organization skills
 
-⸻
+---
 
-👤 Author
+## 👤 Author
 
 Charanpreet Singh
 
-LinkedIn Profile
-
-⸻
-
+⸻---
 <p align="center">
   ⭐ If you found this repository useful, consider giving it a star!
 </p>
