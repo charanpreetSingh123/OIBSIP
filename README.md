@@ -213,7 +213,7 @@ Projects Completed	3
 
 Charanpreet Singh
 
-⸻---
+---
 <p align="center">
   ⭐ If you found this repository useful, consider giving it a star!
 </p>
