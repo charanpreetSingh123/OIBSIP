@@ -174,19 +174,23 @@ OIBSIP/
 
 ## ⚙️ How to Run
 
-1. Clone the repository:
+1. Clone the repository
 
+```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+```
 
-2. Navigate to the project folder:
+2. Navigate to the project folder
 
+```bash
 cd YOUR-REPOSITORY-NAME
+```
 
-3. Install dependencies:
+3. Install dependencies
 
+```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
-
-4. Open any .ipynb notebook file using Jupyter Notebook, VS Code, or Google Colab.
+```
 
 ---
 
