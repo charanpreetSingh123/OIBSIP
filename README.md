@@ -149,6 +149,7 @@ Data Collection → Data Cleaning → Exploratory Data Analysis → Feature Engi
 
 ## 📂 Repository Structure
 
+```text
 OIBSIP/
 │
 ├── Car Price Prediction/
@@ -167,6 +168,7 @@ OIBSIP/
 │   └── README.md
 │
 └── README.md
+```
 
 ---
 
